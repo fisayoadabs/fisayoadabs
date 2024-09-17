@@ -5,7 +5,7 @@
 ## 👋 About Me
 Hey! I'm Oluwafisayo, but most people call me Fizzy. I’m a Software Engineering student with a Minor in Mechatronics at the University of Calgary, with a deep interest in immersive AR/VR, AI, and robotics.
 
-## 🔧 Skills
+## 💻 Skills
 - **Languages**: JavaScript, TypeScript, React, Next.js, Three.js, C/C++, Java, Python, Swift, Kotlin.
 - **Tools/Technologies**: AWS (DynamoDB, Cognito, Amplify), Firebase, SQL, Docker, Git, WebXR, Rhino, AI (Langchain, Llama API).
 - **Focus**: Full-stack development, immersive experiences, AI-driven applications.
