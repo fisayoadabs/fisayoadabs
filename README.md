@@ -1,6 +1,6 @@
 # Oluwafisayo "Fizzy" Adabs
 
-**Software Engineer | AR/VR Enthusiast | AI Innovator**
+**Inspiring Software Engineer**
 
 ## 👋 About Me
 Hey! I'm Oluwafisayo, but most people call me Fizzy. I’m a Software Engineering student with a Minor in Mechatronics at the University of Calgary, with a deep interest in immersive AR/VR, AI, and robotics.
