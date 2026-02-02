@@ -1,4 +1,4 @@
-# Oluwafisayo "Fizzy" Adabonyan(Adabs)
+# Oluwafisayo Adabonyan
 
 **Inspiring Software Engineer**
 
